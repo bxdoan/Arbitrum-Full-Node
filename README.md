@@ -42,14 +42,14 @@ Learn Docker Container ID with following command.
 ``` 
 docker ps
 ```
-![image](https://user-images.githubusercontent.com/101462877/198364892-af160efa-66b2-4929-9e14-c79ea28b456a.png)
+![image](imgs/docker_ps.png)
 
 After that, check your node logs. Change `<ID>` part with the Container ID that you obtained from the command above.
 
 ``` 
 docker logs -f <ID>
 ```
-![image](https://user-images.githubusercontent.com/101462877/198365298-62ee6d4c-e9c8-4290-af7c-e02ee4ab7667.png)
+![image](./imgs/docker_logs.png)
 
 
 ## 4) Adding your node rpc url to metamask after node installation.
