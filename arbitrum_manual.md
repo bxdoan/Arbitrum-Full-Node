@@ -15,7 +15,7 @@ chmod -fR 777 ~/data/arbitrum
 # Run your node. Don't forget to change`<L1URL>` part with the `https` part that you copied from Alchemy.
 Run command below to get latest image
 ```shell
-curl -s https://api.github.com/repos/OffchainLabs/nitro/releases/latest | grep -oP 'Docker image on Docker Hub at \`(.*)(?=")\`'
+curl -s https://api.github.com/repos/OffchainLabs/nitro/releases/latest | grep -oP 'Docker image on Docker Hub at `\K(.*)(?=`)'
 ```
 
 and then run
