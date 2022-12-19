@@ -1,6 +1,6 @@
 <h1 align="center">Arbitrum Full Node Installation Guide
 
-## If you don't want to having problems with claim for a possible Arbitrum airdrop, this guide is for you. Do not forget to star and fork from the top right. If you have questions: [LossNode Chat](https://t.me/LossNode)
+## If you don't want to having problems with claim for a possible Arbitrum airdrop, this guide is for you. Do not forget to star and fork from the top right. If you have questions: [Chat](https://t.me/bxdoan)
 
 ![image](https://user-images.githubusercontent.com/101462877/198357079-6320f62f-8e9e-401d-becf-8673480e8701.png)
 
